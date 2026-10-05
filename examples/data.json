@@ -1,0 +1,9 @@
+{
+  "name": "gopher",
+  "age": 200,
+  "role": "user",
+  "tags": ["go", "json"],
+  "active": true,
+  "extra": "not allowed"
+}
+
