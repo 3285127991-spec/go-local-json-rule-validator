@@ -1,0 +1,8 @@
+{
+  "user": {"name": "alice", "age": 30, "role": "admin", "active": true},
+  "tags": ["vip", "newsletter"],
+  "items": [
+    {"sku": "A-1", "price": 9.5, "qty": 2},
+    {"sku": "B-2", "price": 100, "qty": 1}
+  ]
+}
